@@ -1,4 +1,4 @@
-This is a demo app for a fake online cafe called INF Café. It consists of a front end with three pages: a Products page, a Basket page, and a Previous Orders
+This is a demo Ionic app for a fake online cafe called INF Café. It consists of a front end with three pages: a Products page, a Basket page, and a Previous Orders
 page. It accesses the endpoints found in the product and order controllers of an API to send and receive data from the database
 <h1>Products</h1>
 The list of all products (including their name, description, and price) are displayed on the page, along with an input for the product quantity. 
