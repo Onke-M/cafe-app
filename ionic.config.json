@@ -1,0 +1,7 @@
+{
+  "name": "u18042199_HW02_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

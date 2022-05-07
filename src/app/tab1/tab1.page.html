@@ -1,0 +1,28 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Products
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <ion-card *ngFor="let product of products">
+    <ion-card-header>
+      <ion-card-subtitle>R{{product.productPrice}}</ion-card-subtitle>
+      <ion-card-title>{{product.productName}}</ion-card-title>
+    </ion-card-header>
+  
+    <ion-card-content>
+      {{product.productDescription}}
+    </ion-card-content>
+    <ion-item>
+      <ion-item>
+        <ion-label slot="start" position="fixed">Quantity</ion-label>
+        <ion-input name="quantity" #box type="number" placeholder="amount"></ion-input>
+      </ion-item>
+      <ion-button (click)="getOrderLine(product,box.value)" fill="outline" slot="end"><ion-icon name="basket-outline"></ion-icon></ion-button>
+    </ion-item>
+  </ion-card>
+</ion-content>
