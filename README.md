@@ -32,12 +32,12 @@ This page is for display purposes only and the user is not be able to do anythin
 orders, besides view the list and navigate to the different pages using the tabs.
 <h1>Screenshots</h1>
 <h3>Products</h3>
-(https://user-images.githubusercontent.com/82672900/167273184-4906e877-9f89-432e-9f34-fd99d545923b.png)
+https://user-images.githubusercontent.com/82672900/167273184-4906e877-9f89-432e-9f34-fd99d545923b.png
 <h3>Basket</h3>
-(https://user-images.githubusercontent.com/82672900/167273181-6fd4ad2a-44b6-4a8a-af95-41264712ae6b.png)
+https://user-images.githubusercontent.com/82672900/167273181-6fd4ad2a-44b6-4a8a-af95-41264712ae6b.png
 <h3>Checkout</h3>
-(https://user-images.githubusercontent.com/82672900/167273182-9500817c-5541-47b4-9102-13869f93e8f1.png)
+https://user-images.githubusercontent.com/82672900/167273182-9500817c-5541-47b4-9102-13869f93e8f1.png
 <h3>Previous Orders</h3>
-(https://user-images.githubusercontent.com/82672900/167273183-acb07e58-bfa5-4352-bce2-bcaa3e333474.png)
+https://user-images.githubusercontent.com/82672900/167273183-acb07e58-bfa5-4352-bce2-bcaa3e333474.png
 
 
